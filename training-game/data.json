@@ -1,573 +1,585 @@
 [
   {
-    "id": "2082618",
-    "division": 2,
-    "name": "Pi77Bull",
-    "gain": 11910
-  },
-  {
-    "id": "915616",
-    "division": 1,
-    "name": "OZ_Dan",
-    "gain": 11820
-  },
-  {
-    "id": "1039527",
-    "division": 1,
-    "name": "Wolfman",
-    "gain": 11690
+    "id": "284602",
+    "division": 3,
+    "name": "Yankee_Rose",
+    "gain": 27710
   },
   {
     "id": "2387102",
     "division": 3,
     "name": "aCreature",
-    "gain": 11625
+    "gain": 20950
+  },
+  {
+    "id": "1039527",
+    "division": 1,
+    "name": "Wolfman",
+    "gain": 20590
   },
   {
     "id": "521713",
     "division": 3,
     "name": "8-6ix_RIP_BOB",
-    "gain": 11430
+    "gain": 20580
   },
   {
-    "id": "463664",
+    "id": "915616",
     "division": 1,
-    "name": "Telomun",
-    "gain": 11120
+    "name": "OZ_Dan",
+    "gain": 19790
   },
   {
     "id": "2154641",
     "division": 2,
     "name": "DemonCyborg",
-    "gain": 11040
+    "gain": 19660
   },
   {
-    "id": "1994472",
+    "id": "463664",
     "division": 1,
-    "name": "Kill-bot",
-    "gain": 9750
+    "name": "Telomun",
+    "gain": 19020
+  },
+  {
+    "id": "2082618",
+    "division": 2,
+    "name": "Pi77Bull",
+    "gain": 18980
   },
   {
     "id": "1985572",
     "division": 3,
     "name": "criped",
-    "gain": 9570
+    "gain": 17150
   },
   {
-    "id": "2505975",
-    "division": 3,
-    "name": "nazmul-george",
-    "gain": 9370
-  },
-  {
-    "id": "1973564",
-    "division": 3,
-    "name": "SubZ3r0",
-    "gain": 9230
-  },
-  {
-    "id": "2416181",
-    "division": 3,
-    "name": "Chickendino",
-    "gain": 8960
-  },
-  {
-    "id": "2092709",
-    "division": 2,
-    "name": "Sxl",
-    "gain": 8795
-  },
-  {
-    "id": "2572806",
-    "division": 3,
-    "name": "lotosek",
-    "gain": 8570
-  },
-  {
-    "id": "284602",
-    "division": 3,
-    "name": "Yankee_Rose",
-    "gain": 8520
+    "id": "1994472",
+    "division": 1,
+    "name": "Kill-bot",
+    "gain": 17140
   },
   {
     "id": "1878832",
     "division": 1,
     "name": "Afterlife",
-    "gain": 8450
+    "gain": 16815
   },
   {
-    "id": "1288299",
-    "division": 1,
-    "name": "StickySweet",
-    "gain": 8370
-  },
-  {
-    "id": "2081954",
-    "division": 1,
-    "name": "Xylene",
-    "gain": 7800
-  },
-  {
-    "id": "2497903",
+    "id": "2416181",
     "division": 3,
-    "name": "torn_assasin",
-    "gain": 7790
+    "name": "Chickendino",
+    "gain": 15940
   },
   {
-    "id": "1988771",
-    "division": 1,
-    "name": "Piccolo_Jr",
-    "gain": 7770
+    "id": "2505975",
+    "division": 3,
+    "name": "nazmul-george",
+    "gain": 15870
+  },
+  {
+    "id": "2092709",
+    "division": 2,
+    "name": "Sxl",
+    "gain": 15145
+  },
+  {
+    "id": "2572806",
+    "division": 3,
+    "name": "lotosek",
+    "gain": 14880
   },
   {
     "id": "1950738",
     "division": 1,
     "name": "Modified_Human",
-    "gain": 7750
+    "gain": 14750
+  },
+  {
+    "id": "2081954",
+    "division": 1,
+    "name": "Xylene",
+    "gain": 14550
   },
   {
     "id": "2062887",
     "division": 1,
     "name": "KkamitkK",
-    "gain": 7740
+    "gain": 14110
   },
   {
-    "id": "1338715",
-    "division": 0,
-    "name": "muddyfunkster",
-    "gain": 7480
+    "id": "1288299",
+    "division": 1,
+    "name": "StickySweet",
+    "gain": 14070
   },
   {
-    "id": "2549019",
-    "division": 3,
-    "name": "R3X",
-    "gain": 7290
+    "id": "1988771",
+    "division": 1,
+    "name": "Piccolo_Jr",
+    "gain": 14010
   },
   {
     "id": "1947498",
     "division": 3,
     "name": "LunarControl",
-    "gain": 7240
+    "gain": 13810
   },
   {
-    "id": "2237521",
+    "id": "1973564",
     "division": 3,
-    "name": "Phatweasul",
-    "gain": 7170
+    "name": "SubZ3r0",
+    "gain": 13675
   },
   {
-    "id": "247644",
+    "id": "2497903",
     "division": 3,
-    "name": "HappyKittee",
-    "gain": 7140
+    "name": "torn_assasin",
+    "gain": 13200
+  },
+  {
+    "id": "2549019",
+    "division": 3,
+    "name": "R3X",
+    "gain": 13050
+  },
+  {
+    "id": "1338715",
+    "division": 0,
+    "name": "muddyfunkster",
+    "gain": 12655
   },
   {
     "id": "2129185",
     "division": 2,
     "name": "RagefulManiac",
-    "gain": 7140
+    "gain": 12530
   },
   {
-    "id": "1748457",
-    "division": 2,
-    "name": "Turtlewood",
-    "gain": 7130
-  },
-  {
-    "id": "1881117",
-    "division": 2,
-    "name": "Jesmond",
-    "gain": 6650
-  },
-  {
-    "id": "1016340",
-    "division": 1,
-    "name": "Badd1",
-    "gain": 6530
+    "id": "279406",
+    "division": 3,
+    "name": "lilcaygeon",
+    "gain": 11975
   },
   {
     "id": "1457011",
     "division": 1,
     "name": "Pantagruelion",
-    "gain": 6250
+    "gain": 11220
   },
   {
-    "id": "2167263",
+    "id": "1748457",
     "division": 2,
-    "name": "suime",
-    "gain": 6150
+    "name": "Turtlewood",
+    "gain": 11140
   },
   {
     "id": "1651067",
     "division": 1,
     "name": "GrizzlyBear",
-    "gain": 6100
+    "gain": 11080
   },
   {
-    "id": "1358474",
+    "id": "2237521",
+    "division": 3,
+    "name": "Phatweasul",
+    "gain": 11020
+  },
+  {
+    "id": "1016340",
     "division": 1,
-    "name": "Saradomin",
-    "gain": 5900
+    "name": "Badd1",
+    "gain": 10950
+  },
+  {
+    "id": "2167263",
+    "division": 2,
+    "name": "suime",
+    "gain": 10830
+  },
+  {
+    "id": "1881117",
+    "division": 2,
+    "name": "Jesmond",
+    "gain": 10800
   },
   {
     "id": "1071170",
     "division": 1,
     "name": "PuppyLove1052",
-    "gain": 5700
+    "gain": 10390
   },
   {
-    "id": "279406",
-    "division": 0,
-    "name": "lilcaygeon",
-    "gain": 5650
-  },
-  {
-    "id": "1983923",
-    "division": 1,
-    "name": "hokkysokky22",
-    "gain": 5550
-  },
-  {
-    "id": "2310156",
+    "id": "247644",
     "division": 3,
-    "name": "Toadman",
-    "gain": 5430
-  },
-  {
-    "id": "2107508",
-    "division": 2,
-    "name": "Siladax",
-    "gain": 5290
-  },
-  {
-    "id": "103624",
-    "division": 0,
-    "name": "kopi_katz",
-    "gain": 5280
-  },
-  {
-    "id": "2118168",
-    "division": 2,
-    "name": "XL-Jimmys94",
-    "gain": 4975
-  },
-  {
-    "id": "1310540",
-    "division": 3,
-    "name": "Azat",
-    "gain": 4900
+    "name": "HappyKittee",
+    "gain": 10370
   },
   {
     "id": "2111619",
     "division": 3,
     "name": "leftalone",
-    "gain": 4850
-  },
-  {
-    "id": "170943",
-    "division": 3,
-    "name": "ohhmygod",
-    "gain": 4800
+    "gain": 10125
   },
   {
     "id": "1912239",
     "division": 2,
     "name": "McGovern1981",
-    "gain": 4740
+    "gain": 9730
   },
   {
-    "id": "922423",
-    "division": 3,
-    "name": "Beverly",
-    "gain": 4500
+    "id": "1983923",
+    "division": 1,
+    "name": "hokkysokky22",
+    "gain": 9650
   },
   {
-    "id": "1706948",
+    "id": "2118168",
+    "division": 2,
+    "name": "XL-Jimmys94",
+    "gain": 9650
+  },
+  {
+    "id": "2107508",
+    "division": 2,
+    "name": "Siladax",
+    "gain": 9570
+  },
+  {
+    "id": "1358474",
+    "division": 1,
+    "name": "Saradomin",
+    "gain": 9350
+  },
+  {
+    "id": "103624",
+    "division": 0,
+    "name": "kopi_katz",
+    "gain": 9030
+  },
+  {
+    "id": "1310540",
     "division": 3,
-    "name": "AVOCADO",
-    "gain": 4475
+    "name": "Azat",
+    "gain": 8800
+  },
+  {
+    "id": "2310156",
+    "division": 3,
+    "name": "Toadman",
+    "gain": 8180
   },
   {
     "id": "90036",
     "division": 0,
     "name": "djdlp",
-    "gain": 4325
+    "gain": 8125
   },
   {
-    "id": "2096975",
-    "division": 2,
-    "name": "Pelofu",
-    "gain": 4125
+    "id": "922423",
+    "division": 3,
+    "name": "Beverly",
+    "gain": 8050
   },
   {
     "id": "1447162",
     "division": 1,
     "name": "Aphrodite69",
-    "gain": 4030
-  },
-  {
-    "id": "2202565",
-    "division": 3,
-    "name": "MrJ",
-    "gain": 3920
-  },
-  {
-    "id": "2063712",
-    "division": 0,
-    "name": "kony83",
-    "gain": 3850
-  },
-  {
-    "id": "2151535",
-    "division": 2,
-    "name": "LoneWolfLogan",
-    "gain": 3725
-  },
-  {
-    "id": "2153507",
-    "division": 3,
-    "name": "PopSmoke",
-    "gain": 3700
+    "gain": 7060
   },
   {
     "id": "1741739",
     "division": 1,
     "name": "TenaciousP",
-    "gain": 3440
-  },
-  {
-    "id": "2064172",
-    "division": 2,
-    "name": "FlyingNehpets",
-    "gain": 3300
-  },
-  {
-    "id": "1960147",
-    "division": 1,
-    "name": "HalkHunter",
-    "gain": 3270
-  },
-  {
-    "id": "2039510",
-    "division": 3,
-    "name": "Crossing_Hell",
-    "gain": 3255
+    "gain": 6830
   },
   {
     "id": "1447329",
     "division": 1,
     "name": "paid",
-    "gain": 3225
+    "gain": 6750
   },
   {
-    "id": "2092037",
+    "id": "2063712",
+    "division": 0,
+    "name": "kony83",
+    "gain": 6750
+  },
+  {
+    "id": "2151535",
     "division": 2,
-    "name": "ImM0rtalWarr10r",
-    "gain": 3170
+    "name": "LoneWolfLogan",
+    "gain": 6725
+  },
+  {
+    "id": "2096975",
+    "division": 2,
+    "name": "Pelofu",
+    "gain": 6625
+  },
+  {
+    "id": "2064172",
+    "division": 2,
+    "name": "FlyingNehpets",
+    "gain": 6600
+  },
+  {
+    "id": "170943",
+    "division": 3,
+    "name": "ohhmygod",
+    "gain": 6525
+  },
+  {
+    "id": "2202565",
+    "division": 3,
+    "name": "MrJ",
+    "gain": 6510
+  },
+  {
+    "id": "1706948",
+    "division": 3,
+    "name": "AVOCADO",
+    "gain": 6455
+  },
+  {
+    "id": "2153507",
+    "division": 3,
+    "name": "PopSmoke",
+    "gain": 6375
+  },
+  {
+    "id": "1960147",
+    "division": 1,
+    "name": "HalkHunter",
+    "gain": 5670
+  },
+  {
+    "id": "2039510",
+    "division": 3,
+    "name": "Crossing_Hell",
+    "gain": 5305
   },
   {
     "id": "580300",
     "division": 1,
     "name": "Jamie17694",
-    "gain": 3140
-  },
-  {
-    "id": "244028",
-    "division": 1,
-    "name": "Ducks",
-    "gain": 3050
+    "gain": 5300
   },
   {
     "id": "1592272",
     "division": 2,
     "name": "Domininja",
-    "gain": 2900
+    "gain": 5190
   },
   {
-    "id": "2096198",
-    "division": 3,
-    "name": "Atake",
-    "gain": 2630
-  },
-  {
-    "id": "1463774",
+    "id": "244028",
     "division": 1,
-    "name": "Graycor",
-    "gain": 2550
+    "name": "Ducks",
+    "gain": 5150
   },
   {
-    "id": "2146394",
-    "division": 3,
-    "name": "Babydemon18",
-    "gain": 2480
-  },
-  {
-    "id": "465258",
-    "division": 0,
-    "name": "Wicked_Clown122",
-    "gain": 2250
-  },
-  {
-    "id": "1546123",
-    "division": 0,
-    "name": "6StringSlayer",
-    "gain": 2135
-  },
-  {
-    "id": "2418567",
-    "division": 3,
-    "name": "-Detail-",
-    "gain": 2100
-  },
-  {
-    "id": "2272055",
-    "division": 3,
-    "name": "RPWJ",
-    "gain": 2050
-  },
-  {
-    "id": "2179286",
-    "division": 3,
-    "name": "Yoshibits",
-    "gain": 1970
-  },
-  {
-    "id": "1042858",
-    "division": 0,
-    "name": "xKR3Wx",
-    "gain": 1880
-  },
-  {
-    "id": "1071167",
-    "division": 1,
-    "name": "Sweet_Miserie",
-    "gain": 1800
-  },
-  {
-    "id": "1862063",
+    "id": "2092037",
     "division": 2,
-    "name": "Kallsar",
-    "gain": 1800
-  },
-  {
-    "id": "2016197",
-    "division": 2,
-    "name": "Dekkard",
-    "gain": 1740
+    "name": "ImM0rtalWarr10r",
+    "gain": 5040
   },
   {
     "id": "2091132",
     "division": 2,
     "name": "Czibule",
-    "gain": 1570
+    "gain": 4960
+  },
+  {
+    "id": "2179286",
+    "division": 3,
+    "name": "Yoshibits",
+    "gain": 4370
+  },
+  {
+    "id": "2146394",
+    "division": 3,
+    "name": "Babydemon18",
+    "gain": 4250
+  },
+  {
+    "id": "1071167",
+    "division": 1,
+    "name": "Sweet_Miserie",
+    "gain": 4240
+  },
+  {
+    "id": "465258",
+    "division": 0,
+    "name": "Wicked_Clown122",
+    "gain": 4200
+  },
+  {
+    "id": "1546123",
+    "division": 0,
+    "name": "6StringSlayer",
+    "gain": 4130
+  },
+  {
+    "id": "1463774",
+    "division": 1,
+    "name": "Graycor",
+    "gain": 4050
   },
   {
     "id": "957469",
     "division": 1,
     "name": "-FATAL-",
-    "gain": 1250
+    "gain": 3950
+  },
+  {
+    "id": "2096198",
+    "division": 3,
+    "name": "Atake",
+    "gain": 3680
+  },
+  {
+    "id": "2016197",
+    "division": 2,
+    "name": "Dekkard",
+    "gain": 3540
+  },
+  {
+    "id": "2272055",
+    "division": 3,
+    "name": "RPWJ",
+    "gain": 3540
   },
   {
     "id": "2407396",
     "division": 3,
     "name": "Coldery",
-    "gain": 1150
-  },
-  {
-    "id": "1546052",
-    "division": 2,
-    "name": "crumple4skin",
-    "gain": 1050
-  },
-  {
-    "id": "2128614",
-    "division": 3,
-    "name": "rabom112",
-    "gain": 1040
-  },
-  {
-    "id": "2195582",
-    "division": 3,
-    "name": "MagIx_",
-    "gain": 1030
+    "gain": 3450
   },
   {
     "id": "1037995",
     "division": 1,
     "name": "Qwasa",
-    "gain": 900
+    "gain": 3100
   },
   {
-    "id": "890603",
-    "division": 1,
-    "name": "NinjaDevil",
-    "gain": 800
+    "id": "1042858",
+    "division": 0,
+    "name": "xKR3Wx",
+    "gain": 2880
   },
   {
-    "id": "2249516",
+    "id": "1862063",
+    "division": 2,
+    "name": "Kallsar",
+    "gain": 2875
+  },
+  {
+    "id": "2418567",
     "division": 3,
-    "name": "Senorita_Jane",
-    "gain": 780
-  },
-  {
-    "id": "1185420",
-    "division": 1,
-    "name": "tompas",
-    "gain": 750
-  },
-  {
-    "id": "878909",
-    "division": 2,
-    "name": "silentmist",
-    "gain": 740
-  },
-  {
-    "id": "1177951",
-    "division": 2,
-    "name": "swat-75",
-    "gain": 700
+    "name": "-Detail-",
+    "gain": 2550
   },
   {
     "id": "2034314",
     "division": 1,
     "name": "Highlander_AF",
-    "gain": 700
+    "gain": 2350
   },
   {
-    "id": "2091321",
+    "id": "2195582",
+    "division": 3,
+    "name": "MagIx_",
+    "gain": 2310
+  },
+  {
+    "id": "2128614",
+    "division": 3,
+    "name": "rabom112",
+    "gain": 1660
+  },
+  {
+    "id": "1177951",
     "division": 2,
-    "name": "Hurycz",
-    "gain": 400
+    "name": "swat-75",
+    "gain": 1500
+  },
+  {
+    "id": "2249516",
+    "division": 3,
+    "name": "Senorita_Jane",
+    "gain": 1380
+  },
+  {
+    "id": "1185420",
+    "division": 1,
+    "name": "tompas",
+    "gain": 1350
+  },
+  {
+    "id": "1546052",
+    "division": 2,
+    "name": "crumple4skin",
+    "gain": 1350
+  },
+  {
+    "id": "890603",
+    "division": 1,
+    "name": "NinjaDevil",
+    "gain": 1100
   },
   {
     "id": "1038075",
     "division": 1,
     "name": "Badd1sbiatch",
-    "gain": 300
+    "gain": 1050
+  },
+  {
+    "id": "878909",
+    "division": 2,
+    "name": "silentmist",
+    "gain": 1040
+  },
+  {
+    "id": "2091321",
+    "division": 2,
+    "name": "Hurycz",
+    "gain": 700
+  },
+  {
+    "id": "1699808",
+    "division": 2,
+    "name": "Shinzo",
+    "gain": 500
   },
   {
     "id": "2436064",
     "division": 3,
     "name": "-BrynsMom-",
-    "gain": 300
-  },
-  {
-    "id": "2409553",
-    "division": 3,
-    "name": "tlhoffman2772",
-    "gain": 205
+    "gain": 500
   },
   {
     "id": "162457",
     "division": 2,
     "name": "ensemboi",
-    "gain": 100
+    "gain": 375
+  },
+  {
+    "id": "1497136",
+    "division": null,
+    "name": "Vukun",
+    "gain": 330
+  },
+  {
+    "id": "2409553",
+    "division": 3,
+    "name": "tlhoffman2772",
+    "gain": 290
   },
   {
     "id": "40689",
     "division": 2,
     "name": "FRINK",
-    "gain": 0
+    "gain": 100
   },
   {
     "id": "347337",
@@ -579,12 +591,6 @@
     "id": "1018955",
     "division": 2,
     "name": "OberinNolmax",
-    "gain": 0
-  },
-  {
-    "id": "1699808",
-    "division": 2,
-    "name": "Shinzo",
     "gain": 0
   },
   {
